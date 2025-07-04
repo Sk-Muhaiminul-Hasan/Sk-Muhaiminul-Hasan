@@ -45,8 +45,9 @@
     <li><b>🐍 Snake Game</b> <i>(Python)</i></li>
     <li><b>🧱 Brick Smasher</b> <i>(Java)</i></li>
     <li><b>📝 Notepad</b> <i>(Java)</i></li>
+    <li><b>📖 Book Tracker App</b> <i>(Java)<i></li>
     <li><b>🎬 Movie Review Website</b> <i>(React)</i></li>
-    <li><b>⌨️ Monkeytype Clone</b> <i>(React)</i></li>
+    <li><b>:octocat: Cattotype (Monkey Clone)</b> <i>(React)</i></li>
   </ul>
   <blockquote>
     <b>Always working on something new!</b>
