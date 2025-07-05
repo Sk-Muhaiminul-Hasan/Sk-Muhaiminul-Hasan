@@ -42,12 +42,12 @@
   <summary><b>🚀 Mini Projects</b></summary>
   <br>
   <ul>
-    <li><b>🐍 Snake Game</b> <i>(Python)</i></li>
-    <li><b>🧱 Brick Smasher</b> <i>(Java)</i></li>
-    <li><b>📝 Notepad</b> <i>(Java)</i></li>
-    <li><b>📖 Book Tracker App</b> <i>(Java)<i></li>
-    <li><b>🎬 Movie Review Website</b> <i>(React)</i></li>
-    <li><b>:octocat: Cattotype (Monkey Clone)</b> <i>(React)</i></li>
+    <li><b>🐍 <a href="https://github.com/Sk-Muhaiminul-Hasan/Snake-Game">Snake Game</b></a> <i>(Python)</i></li>
+    <li><b>🧱 <a href="https://github.com/Sk-Muhaiminul-Hasan/Brick-Breaker">Brick Smasher</b></a> <i>(Java)</i></li>
+    <li><b>📝 <a href="https://github.com/Sk-Muhaiminul-Hasan/Note-Pad">Notepad</b></a> <i>(Java)</i></li>
+    <li><b>📖 <a href="https://github.com/Sk-Muhaiminul-Hasan/BookTrackerApp">Book Tracker App</b></a> <i>(Java)<i></li>
+    <li><b>🎬 <a href="https://github.com/Sk-Muhaiminul-Hasan/Movies">Movie Review Website</b></a> <i>(React)</i></li>
+    <li><b>:octocat: <a href="https://github.com/Sk-Muhaiminul-Hasan/Typing-Game">Cattotype (Monkey Clone)</b></a> <i>(React)</i></li>
   </ul>
   <blockquote>
     <b>Always working on something new!</b>
